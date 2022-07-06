@@ -1,8 +1,8 @@
-html
+html-markup language
 
-css
+CSS- styling sheets
 
-javascrip
+javascript
 
 react
 
